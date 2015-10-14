@@ -1,0 +1,21 @@
+{
+  "name": "hubot-achievements",
+  "version": "0.0.0",
+  "description": "count your achievements.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/1995hnagamin/hubot-achievements"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "Hideaki Nagamine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1995hnagamin/hubot-achievements/issues"
+  }
+}
